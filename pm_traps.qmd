@@ -1,0 +1,19 @@
+# PM Traps 
+
+**Why you shouldn't just build everything a customer asks for**
+
+As a PM one wants to maximize the impact of a product line and build features that effect as many 
+users as possible. The danger of blindly building a feature a customer asks for, is it is overfit 
+or overly customized for a specific customer and it will not benefit others. 
+Furthermore, customers typically speak in the context of what is in front of them and don't necessarily forecast the industry 5 years ahead. 
+
+["Users will tell you incremental improvements, they won't tell you to build the next Iphone" - William Falcone (PyTorch Lightning Founder)](https://www.youtube.com/clip/Ugkx9TEUVJ3o72loKuUCbkVHelcf55SJBiul)
+
+Think of it another way, if success was as easy as just doing what the customer says, every company 
+would do it and succeed.  
+
+This should not be an excuse to not speak with customers. In fact, not doing so would be a huge 
+mistake. However, it is important to evaluate the conversation *in context*.  
+
+
+
