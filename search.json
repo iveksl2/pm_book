@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "pm_book",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is the start of a book about product management. Coming from a trading & data science background myself, this will have more of a quantitative & strategic lean. It is my belief that concetps like expected value, forecasting, and optimization are in fact very relevant to product management. Dsign and aesthetics of are tremendously important and will be covered as well.\nTopics to cover:\n\nEconomic principles & entreprenuership\nStrategy\nExecution\nOther principles\nProduct people management"
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever."
+  },
+  {
+    "objectID": "pm_traps.html",
+    "href": "pm_traps.html",
+    "title": "3  PM Traps",
+    "section": "",
+    "text": "Why you shouldn’t just build everything a customer asks for\nAs a PM one wants to maximize the impact of a product line and build features that effect as many users as possible. The danger of blindly building a feature a customer asks for, is it is overfit or overly customized for a specific customer and it will not benefit others. Furthermore, customers typically speak in the context of what is in front of them and don’t necessarily forecast the industry 5 years ahead.\n“Users will tell you incremental improvements, they won’t tell you to build the next Iphone” - William Falcone (PyTorch Lightning Founder)\nThink of it another way, if success was as easy as just doing what the customer says, every company would do it and succeed.\nThis should not be an excuse to not speak with customers. In fact, not doing so would be a huge mistake. However, it is important to evaluate the conversation in context."
+  }
+]
