@@ -26,12 +26,5 @@
     "title": "3  PM Traps",
     "section": "",
     "text": "Why you shouldn’t just build everything a customer asks for\nAs a PM one wants to maximize the impact of a product line and build features that effect as many users as possible. The danger of blindly building a feature a customer asks for, is it is overfit or overly customized for a specific customer and it will not benefit others. Furthermore, customers typically speak in the context of what is in front of them and don’t necessarily forecast the industry 5 years ahead.\n“Users will tell you incremental improvements, they won’t tell you to build the next Iphone” - William Falcone (PyTorch Lightning Founder)\nThink of it another way, if success was as easy as just doing what the customer says, every company would do it and succeed.\nThis should not be an excuse to not speak with customers. In fact, not doing so would be a huge mistake. However, it is important to evaluate the conversation in context."
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   }
 ]
