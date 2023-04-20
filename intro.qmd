@@ -1,6 +1,15 @@
 # Introduction
 
-This is a book about product management. Coming from a trading & data science background, 
-it will be more of a quantitative & strategic lean on product management. It is my belief that concetps like expected value and forecasting are in fact very relevant to product managmenet. The design and aesthetics of the product are tremendously important and should not be minimized.
+This is the start of a book about product management. Coming from a trading & data science background myself, this will have more of a quantitative & strategic lean. It is my belief that concetps like expected value, forecasting, and optimization are in fact very relevant to product management. Dsign and aesthetics of are tremendously important and will be covered as well. 
 
-See @knuth84 for additional discussion of literate programming.
+
+Topics to cover: 
+
+  * Economic principles & entreprenuership 
+  * Strategy
+  * Execution
+  * Other principles
+  * Product people management 
+
+
+
