@@ -8,6 +8,7 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - economic_principles.qmd
     - summary.qmd
     - pm_traps.qmd 
     - references.qmd
