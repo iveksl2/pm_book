@@ -1,3 +1,30 @@
 
-### Objective function of capitalism
-A company is a group of people that build a product or service that adds more value than the alternatives.  This is the 'objective function' of companies and capitalism. The fundamentals are often forgotten and as PMs that work in the day to day. This can have a beneficial effect in re-orientating your thinking in helping *others* improve. Thinking of oneself as an entereprenuer rather than just a "product manager" is a great heurestic that will align you with your company and enable you to make a plethora of good decisions. Note: To adopt this mindset you do not need to completely drink the libertarian cool aid as capitalism comes with tradeoffs.    
+It is good to learn about the economic theory & principles useful to an entreprenuer. These are likelier to stand the test of time rather than the latest product managment framework. Product Frameworks can't significantly depeart from these deeper economic principles. 
+
+### Economic Principles. 
+    
+**Companys Goal:**
+
+A company is a group of people that build a product or service that adds more value than the alternatives. (Including the status quot)  This is the 'objective function' of companies and capitalism. Often times these fundamentals are often forgotten as PMs that work in the day to day. 
+
+This outlook can have a beneficial effect in re-orientating your thinking in helping *others* improve. Thinking of oneself as an entereprenuer rather than just a "product manager" is a great heurestic that will align you with your company and enable you to make a plethora of good decisions. Note: To adopt this mindset you do not need to completely drink the libertarian cool aid as capitalism comes with tradeoffs. I.E. Your favorite restaurant that you often frequent and rave about is a product of somebody elses labor and exemplifies the win/win principle. However, if prior to construction, if there was a small duck pond is the beloved home to a flock of ducks, to build the restaurant, the the restaurant will ruthlessly remove the pond to build the restaurant. Capitalism comes with tradeoffs and this is where I partially depart from the good profit book I cite. 
+
+Economic Decision Making Principles [1]
+
+- Risk Appetite & Expected Value
+    - Project A has a 90% chance of generating 100k while project B has a 50% chance of making 1M. While project B has a higher expected value, most employees will choose option A. (find citation)
+
+- Opportunity Costs 
+  - Assuming the best choice is made, it is the "cost" incurred by not enjoying the benefit that would have been had by taking the second best available choice [2]
+
+- Comparitive Advantage:
+  - Comparative advantage is the ability to produce a good or service for a lower opportunity cost. [3] The power in comparitive advantage is understanding the difference with *absolute advantage* as each person can potentially make a contribution, even if others can do everything better. As an example, envision a Doctor opens a new clinic. That doctor is a renaissance man that is also a great at taxation and billing. Should the Doctor both treat patienets and do the billing or should they focus on treating patients and outsource the billing work? [4]
+
+- Sunk Costs
+    - Unrecoverable past expenditure. To argue for decision many of us often say, "well we already invested so much up until this point". 
+
+Sources:
+  * [1] Good Profit -  https://www.amazon.com/Good-Profit-Charles-G-Koch-audiobook/ - pg70 <br>
+  * [2] https://en.wikipedia.org/wiki/Opportunity_cost <br>
+  * [3] https://www.thebalancemoney.com/comparative-advantage-3305915 <br>
+  * [4] Good Profit -  https://www.amazon.com/Good-Profit-Charles-G-Koch-audiobook/ - pg72 <br>
