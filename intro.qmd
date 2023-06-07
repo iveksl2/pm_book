@@ -1,6 +1,8 @@
 # Introduction
 
-This is the start of a book about product management. Coming from a trading & data science background myself, this will have more of a quantitative & strategic lean. It is my belief that concetps like expected value, forecasting, and optimization are in fact very relevant to product management. Dsign and aesthetics of are tremendously important and will be covered as well. 
+This is the start of a book about product management. I am of the belief that the best mindset one can adopt as a product manager is one of an entreprenuer. This book will have product management and entrepreneurship principles. Thinking of oneself as an entereprenuer rather than just a "product manager" is a great heurestic that will align you with your company and enable you to make a plethora of good decisions. 
+
+Coming from a trading & data science background myself, this will have more of a quantitative & strategic lean. It is my belief that concetps like expected value, forecasting, and optimization are in fact very relevant to product management. Design and aesthetics of are tremendously important and will be covered as well. 
 
 
 Topics to cover: 
@@ -8,8 +10,14 @@ Topics to cover:
   * Economic principles & entreprenuership 
   * Strategy
   * Execution
-  * Other principles
-  * Product people management 
+  * Product -> people management 
+  * Analytics
+  * Design
+  * Foundational 
+  * Processes
+  * Additional Lessons & Principles
+  * Anti-Patterns
+
 
 
 

@@ -10,8 +10,18 @@ book:
     - intro.qmd
     - economic_principles.qmd
     - summary.qmd
-    - pm_traps.qmd 
+    - foundations.qmd
+    - partnership_model.qmd
+    - people_management.qmd
+    - processes.qmd
+    - design.qmd
+    - additional_lessons_principles
+    - analytics.qmd
+    - forecasting.qmd
+    - anti_patterns.qmd 
     - references.qmd
+
+
 
 bibliography: references.bib
 
