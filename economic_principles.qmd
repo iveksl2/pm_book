@@ -1,13 +1,13 @@
 
-It is good to learn about the economic theory & principles useful to an entreprenuer. These are likelier to stand the test of time rather than the latest product managment framework. Product Frameworks can't significantly depeart from these deeper economic principles. 
+It is good to learn about the economic theory & principles useful to an entreprenuer. These are likelier to stand the test of time rather than the latest product managment framework fad. Product Frameworks can't significantly depeart from these deeper economic principles. Thinking of oneself as an entereprenuer rather than just a "product manager" is a great heurestic that will align you with your company and enable you to make a plethora of good decisions. 
 
-### Economic Principles. 
+### Economic Principles 
     
 **Companys Goal:**
 
-A company is a group of people that build a product or service that adds more value than the alternatives. (Including the status quot)  This is the 'objective function' of companies and capitalism. Often times these fundamentals are often forgotten as PMs that work in the day to day. 
+A company is a group of people that build a product or service that adds more value than the alternatives. (Including the status quo)  This is the 'objective function' of capitalism in maximizing long term profit. Often times these fundamentals can be forgottedn as PM's get lost in the day to day work. 
 
-This outlook can have a beneficial effect in re-orientating your thinking in helping *others* improve. Thinking of oneself as an entereprenuer rather than just a "product manager" is a great heurestic that will align you with your company and enable you to make a plethora of good decisions. Note: To adopt this mindset you do not need to completely drink the libertarian cool aid as capitalism comes with tradeoffs. I.E. Your favorite restaurant that you often frequent and rave about is a product of somebody elses labor and exemplifies the win/win principle. However, if prior to construction, if there was a small duck pond is the beloved home to a flock of ducks, to build the restaurant, the the restaurant will ruthlessly remove the pond to build the restaurant. Capitalism comes with tradeoffs and this is where I partially depart from the good profit book I cite. 
+This outlook can have a beneficial effect in re-orientating your thinking in helping *others* improve. Note: To adopt this mindset you do not need to completely drink the libertarian cool aid as capitalism comes with tradeoffs. I.E. Your favorite restaurant you rave about is a product of somebody elses labor and exemplifies the win/win principle. However, if prior to construction, there was a small duck pondthat was the beloved home to a flock of ducks, to build the restaurant, the business will ruthlessly dispose of the pond to build the restaurant. Capitalism comes with tradeoffs and this is where I partially depart from the good profit book I cite. 
 
 Economic Decision Making Principles [1]
 
@@ -18,7 +18,8 @@ Economic Decision Making Principles [1]
   - Assuming the best choice is made, it is the "cost" incurred by not enjoying the benefit that would have been had by taking the second best available choice [2]
 
 - Comparitive Advantage:
-  - Comparative advantage is the ability to produce a good or service for a lower opportunity cost. [3] The power in comparitive advantage is understanding the difference with *absolute advantage* as each person can potentially make a contribution, even if others can do everything better. As an example, envision a Doctor opens a new clinic. That doctor is a renaissance man that is also a great at taxation and billing. Should the Doctor both treat patienets and do the billing or should they focus on treating patients and outsource the billing work? [4]
+  - Comparative advantage is the ability to produce a good or service for a lower opportunity cost. [3] The power in comparitive advantage is understanding the difference with *absolute advantage* as each person can potentially make a contribution, even if others can do everything better. As an example, envision a Doctor opens a new clinic. That doctor is a renaissance man that is also a great at taxation and billing. Should the Doctor both treat patienets and do the billing or should they focus on treating patients and outsource the billing work? [4] 
+  - Comparative advantage can help inform how jobs can be constructed to play to the strenghts of the individual rather than fitting the individual into a pre-defined cookie cutter job.
 
 - Sunk Costs
     - Unrecoverable past expenditure. To argue for decision many of us often say, "well we already invested so much up until this point". 
