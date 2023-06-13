@@ -9,6 +9,7 @@ book:
     - index.qmd
     - intro.qmd
     - economic_principles.qmd
+    - product_forecasting.qmd
     - summary.qmd
     - foundations.qmd
     - partnership_model.qmd

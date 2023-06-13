@@ -23,7 +23,7 @@
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "3  Summary",
+    "title": "4  Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever."
   },
@@ -37,8 +37,15 @@
   {
     "objectID": "design.html",
     "href": "design.html",
-    "title": "8  Design Principles",
+    "title": "9  Design Principles",
     "section": "",
     "text": "Before diving into design principles, a heurestic you can use as a PM is, is this UI something you would be proud to attach your name too?"
+  },
+  {
+    "objectID": "product_forecasting.html",
+    "href": "product_forecasting.html",
+    "title": "pm_book",
+    "section": "",
+    "text": "“Skate to where the puck is going, not where it has been.” – Wayne Gretzky\n\nOne must ask themselves will this product feature stand the test of time? Will users care about this 5 years from now or am I building on top of the next hadoop?\n\n\nAccording to Google Trends, we hit Peak Hadoop in June 2015. Spark crossed over Hadoop in search popularity one year later in June 2016, and for the last two years, Spark seems to have been at a plateau. pic.twitter.com/bvjRwBqZbL\n\n— Peter Wang 🦋 ((pwang?)) August 15, 2019\n\n\nHeurestics & Tactics\nOne heueristic you can use is to focus on the things that will not change in the next 10 years. Jeff Bezos speaks this when building Amazon He knows that 10 years from now customers will still care about wide selection and fast delivery. No customer will every say “I love Amazon but I wish my packages were delivered slower”\nIf you want to exercise your forecasting muscle and take it to the next level you can attempt to forecast future events and keeping a record of your predictions to asses your track record and observe what works and what doesn’t. There are websites such as Metaculus that is home to a community of forecasters. In the tech industry where the term “visionary” is thrown around too losely, it is easy to ‘self label’ onself a visionary, but it is harder to develop a successful track record and show evidence of this ability.\nStudy quantitative trends in your space\nIf you want to be very nerdy you can read up on good forecasting principles as well.\nExamples of Good Forecasters\n* Peter Wilderford\n* Jeremy Achin\n* Lukas Biewald\n* Dan Becker"
   }
 ]
