@@ -1,0 +1,22 @@
+> "Skate to where the puck is going, not where it has been."
+> -- <cite>Wayne Gretzky</cite>
+
+One must ask themselves will this product feature stand the test of time? Will users care about this 5 years from now or am I building on top of the next hadoop?
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">According to Google Trends, we hit Peak Hadoop in June 2015. Spark crossed over Hadoop in search popularity one year later in June 2016, and for the last two years, Spark seems to have been at a plateau. <a href="https://t.co/bvjRwBqZbL">pic.twitter.com/bvjRwBqZbL</a></p>&mdash; Peter Wang 🦋 (@pwang) <a href="https://twitter.com/pwang/status/1162125944825548800?ref_src=twsrc%5Etfw">August 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+**Heurestics & Tactics**
+
+One heueristic you can use is to focus on the things that will *not* change in the next 10 years. [Jeff Bezos speaks this when building Amazon](https://www.youtube.com/shorts/yCEX_Q5O0CI) He knows that 10 years from now customers will still care about wide selection and fast delivery. No customer will every say "I love Amazon but I wish my packages were delivered slower"
+
+If you want to exercise your forecasting muscle and take it to the next level you can attempt to forecast future events and keeping a record of your predictions to asses your track record and observe what works and what doesn't. There are websites such as [Metaculus](https://www.metaculus.com/home/) that is home to a community of forecasters. In the tech industry where the term "visionary" is thrown around too losely, it is easy to 'self label' onself a visionary, but it is harder to develop a successful track record and show evidence of this ability. 
+
+Study quantitative trends in your space
+
+If you want to be very nerdy you can read up on [good forecasting principles](https://iveksl2.github.io/ds_book/forecasting.html) as well. 
+
+**Examples of Good Forecasters**  
+  * Peter Wilderford  
+  * Jeremy Achin  
+  * Lukas Biewald  
+  * Dan Becker  
