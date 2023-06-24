@@ -18,7 +18,6 @@ book:
     - design.qmd
     - additional_lessons_principles
     - analytics.qmd
-    - forecasting.qmd
     - anti_patterns.qmd 
     - references.qmd
 
