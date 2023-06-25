@@ -13,7 +13,7 @@ One heueristic you can use is to focus on the things that will *not* change in t
 
  He knows that 10 years from now customers will still care about wide selection and fast delivery. No customer will every say "I love Amazon but I wish my packages were delivered slower". An investment in improving delivery time will pay of now and in the future. 
 
-If you want to  exercise your forecasting muscle and take it to the next level you can attempt to forecast future events and keeping a record of your predictions to asses your track record. Observe what works and what doesn't. For the nerds, there are websites such as [Metaculus](https://www.metaculus.com/home/) that is home to a community of forecasters where you can compete and learn from others. In the tech industry where the term "visionary" is thrown around too losely, it is easy to 'self label' onself a visionary, but it is harder to develop a successful track record and show evidence of this ability. 
+If you want to  exercise your forecasting muscle and take it to the next level you can attempt to forecast future events and keeping a record of your predictions to asses your track record. Observe what works and what doesn't. For the nerds, there are websites such as [Metaculus](https://www.metaculus.com/home/) that is home to a community of forecasters where you can compete and learn from others. In the tech industry where the term "visionary" is thrown around too losely, or worse yet, 'self labeled' visionaries, it is harder to show eveidence of this capability and develop a successful track record. 
 
 Study quantitative trends in your space
 
