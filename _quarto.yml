@@ -10,7 +10,6 @@ book:
     - intro.qmd
     - economic_principles.qmd
     - product_forecasting.qmd
-    - summary.qmd
     - foundations.qmd
     - partnership_model.qmd
     - people_management.qmd
@@ -18,7 +17,6 @@ book:
     - design.qmd
     - additional_lessons_principles
     - analytics.qmd
-    - forecasting.qmd
     - anti_patterns.qmd 
     - references.qmd
 

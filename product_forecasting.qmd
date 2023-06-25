@@ -1,22 +1,26 @@
 > "Skate to where the puck is going, not where it has been."
 > -- <cite>Wayne Gretzky</cite>
 
-One must ask themselves will this product feature stand the test of time? Will users care about this 5 years from now or am I building on top of the next hadoop?
+As a product manager, you want to bet on product that have a tailwind. This provides a margin of safety where even if you don't get everying else right, more users will acrue over time and it increases the likelihood of success. One must ask themselves will this product feature stand the test of time? Will users care about this 5 years from now or am I building on top of the next hadoop?
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">According to Google Trends, we hit Peak Hadoop in June 2015. Spark crossed over Hadoop in search popularity one year later in June 2016, and for the last two years, Spark seems to have been at a plateau. <a href="https://t.co/bvjRwBqZbL">pic.twitter.com/bvjRwBqZbL</a></p>&mdash; Peter Wang 🦋 (@pwang) <a href="https://twitter.com/pwang/status/1162125944825548800?ref_src=twsrc%5Etfw">August 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 **Heurestics & Tactics**
 
-One heueristic you can use is to focus on the things that will *not* change in the next 10 years. [Jeff Bezos speaks this when building Amazon](https://www.youtube.com/shorts/yCEX_Q5O0CI) He knows that 10 years from now customers will still care about wide selection and fast delivery. No customer will every say "I love Amazon but I wish my packages were delivered slower"
+One heueristic you can use is to focus on the things that will *not* change in the next 10 years. Jeff Bezos speaks this when building Amazon:
 
-If you want to exercise your forecasting muscle and take it to the next level you can attempt to forecast future events and keeping a record of your predictions to asses your track record and observe what works and what doesn't. There are websites such as [Metaculus](https://www.metaculus.com/home/) that is home to a community of forecasters. In the tech industry where the term "visionary" is thrown around too losely, it is easy to 'self label' onself a visionary, but it is harder to develop a successful track record and show evidence of this ability. 
+<iframe width="397" height="705" src="https://www.youtube.com/embed/yCEX_Q5O0CI" title="What’s Going to CHANGE in the Next 10 Years? | Jeff Bezos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ He knows that 10 years from now customers will still care about wide selection and fast delivery. No customer will every say "I love Amazon but I wish my packages were delivered slower". An investment in improving delivery time will pay of now and in the future. 
+
+If you want to  exercise your forecasting muscle and take it to the next level you can attempt to forecast future events and keeping a record of your predictions to asses your track record. Observe what works and what doesn't. For the nerds, there are websites such as [Metaculus](https://www.metaculus.com/home/) that is home to a community of forecasters where you can compete and learn from others. In the tech industry where the term "visionary" is thrown around too losely, or worse yet, 'self labeled' visionaries, it is harder to show eveidence of this capability and develop a successful track record. 
 
 Study quantitative trends in your space
 
-If you want to be very nerdy you can read up on [good forecasting principles](https://iveksl2.github.io/ds_book/forecasting.html) as well. 
+If you want to be very nerdy you can read up on [good forecasting principles](https://iveksl2.github.io/ds_book/forecasting.html). 
 
 **Examples of Good Forecasters**  
-  * Peter Wilderford  
+  * Peter Wilderford  (Best general forecaster I know) <br>
   * Jeremy Achin  
   * Lukas Biewald  
   * Dan Becker  
