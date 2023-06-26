@@ -19,6 +19,6 @@ Although i have learned many tips and tricks for many fo the colleagues I have w
 
 #### Contact
 
-I am of the belief ideas should be challenged and in the refinement process they are strengthened. Feel free to reach out. Strong opinions or to quote Hugo Ponte "Violent opposition" is welcome. 
+I am of the belief ideas should be challenged and in the refinement process they are strengthened. If you stubmled upon this, feel free to reach out and I would be happy to discuss. Strong opinions or to quote Hugo Ponte, "Violent opposition" is welcome. 
 
-
+Did you find some of the content useful? Are you also intered in AI? Then check out my [wiki book on Data Science and Artificial Intelligence](https://iveksl2.github.io/ds_book/intro.html)

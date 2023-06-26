@@ -17,7 +17,7 @@ book:
     - design.qmd
     - additional_lessons_principles
     - analytics.qmd
-    - anti_patterns.qmd 
+    - case_studies_not_to_dos.qmd 
     - references.qmd
 
 
