@@ -1,10 +1,10 @@
 # Introduction
 
-This project started as a [collection of product management links, principles and concepts](https://github.com/iveksl2/product_management_links) I collected transitiong from a data scientist to a product manager. Given my background, the implicit motivation was using these principles as a foundation toward building a product building machine. You will see throughout this book, it my view that there is a lot of overlap between being product manager and being a CEO. Therefore broader enterpereneurhisp and economic concpets are very helpful to product managers.
+This project originally started as a [collection of product management links](https://github.com/iveksl2/product_management_links) I would collect in transitioning from a data scientist to a product manager. Given my background, the implicit motivation was using these principles as a foundation toward building a product building machine. You will see throughout this book, it my view that there is a lot of overlap between being product manager and being a CEO. Therefore broader enterpereneurhisp and economic concpets are very helpful to product managers.
 
 After working at Weights and Biases that stresses the value of good writing, or peraphs being an academic at heart, I decided to make these collection of links to a longer form e-book to refine the ideas and surface and gaps in my own knoweldge. I hope others embarking on a career in product management will find some of the ideas helpful. Steal and bring into their own game only the you find useful. 
 
-Principles, like assumptions, are meant to be challenged, discussed and debated and it through this refinement process that they are in fact strenghted. This is to say feel free to reach out discuss these more. To quote [Hugo Ponte](https://twitter.com/hupobuboo) "violent opposition" is welcomed.
+Principles, like assumptions, are meant to be challenged, discussed and debated and it through this refinement process that they are in fact strenghted. This is to say feel free to reach out discuss these more. To quote [Hugo Ponte](https://twitter.com/hupobuboo) ```"violent opposition"``` is welcomed.
 
 This wiki will also contain perspectives from some of the best people I have worked with in the respective domain.
 
@@ -22,5 +22,5 @@ Although i have learned so many tips and tricks from too many to list, a few peo
 
 
 #### Other Work
-Do you find some of this interesting? Are you also interested in Artificial Intelligence? Check out my other wiki book on Articifial Intelligence <! link to data science book >
+Do you find some of this interesting? Are you also interested in Artificial Intelligence? Check out my other educational [wiki book on data science and artificial intelligence](https://iveksl2.github.io/ds_book/)!
 
