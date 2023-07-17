@@ -20,7 +20,7 @@ Although i have learned so many tips and tricks from too many to list, a few peo
  * Lukas Biewald (CEO of Weights and Biases and successful 2X entrepenuer)
    * Thanks for emphasizing the value of writing. Ive taken some of my ideas through his public interviews on the Gradient Dissent Podcast and observing from afar. 
 
+#### Contact
 
 #### Other Work
 Do you find some of this interesting? Are you also interested in Artificial Intelligence? Check out my other educational [wiki book on data science and artificial intelligence](https://iveksl2.github.io/ds_book/)!
-
